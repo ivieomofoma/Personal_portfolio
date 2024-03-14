@@ -1,0 +1,16 @@
+.about{
+    background-color: black;
+}
+.aboutTextPart{
+    display: flex;
+    align-items: center;
+}
+.downloadcv{
+    color: white;
+    background-color: rgb(211, 23, 111);
+}
+.downloadcv:hover{
+    background-color: transparent;
+    color: white;
+    border: 1px solid rgb(211, 23, 111);
+}

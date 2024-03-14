@@ -21,7 +21,7 @@ const Home = () => {
                             autoStart: true,
                             loop: true,
                             delay: 60,
-                            strings: ["I AM A FRONTEND-DEVELOPER"]
+                            strings: ["I AM A FRONT-END DEVELOPER"]
                         }}
                         />
                     </h1>
